@@ -1,0 +1,30 @@
+{
+  "name": "heap-min-max",
+  "version": "1.0.0",
+  "description": "min heap and max heap structure algorithm",
+  "main": "./lib/heap.js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reanote/heap-min-max.git"
+  },
+  "keywords": [
+    "heap",
+    "min-heap",
+    "max-heap",
+    "algorithm",
+    "structure",
+    "sort"
+  ],
+  "author": "ruihong",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/reanote/heap-min-max/issues"
+  },
+  "homepage": "https://github.com/reanote/heap-min-max#readme"
+}
