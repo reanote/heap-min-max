@@ -2,10 +2,9 @@
 Min heap and max heap for NodeJS
 
 
-Example
-=======
+## Example
 
-# min heap
+### min heap
 
 ```javascript
 
@@ -36,7 +35,7 @@ v5
 ```
 
 
-# max heap
+### max heap
 
 ```javascript
 const MaxHeap = require("heap-min-max").MaxHeap;
