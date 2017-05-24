@@ -1,6 +1,6 @@
 {
   "name": "heap-min-max",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "min heap and max heap structure algorithm",
   "main": "./lib/heap.js",
   "dependencies": {
